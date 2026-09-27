@@ -1,0 +1,11 @@
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]WhatsMinerTool 9.2.5.0721
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]git version: ba1861e0
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]git date: Fri Jul 17 15:52:53 2026 +0800
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]build by: admin
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]build date: Tue Jul 21 14:11:42 2026
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::OnInitDialog]directory: E:\测试工具\WhatsMinerTool-9.2.5\
+[21884 | 2026-07-23 17:17:19,640] [CWhatsMinerToolDlg::InitConvertUpgradeEntry]E:\测试工具\WhatsMinerTool-9.2.5\data\whatsminer-h6os.NeedUpgradeAgain.bin not exist!
+[21884 | 2026-07-23 17:17:19,641] [CWhatsMinerToolDlg::InitConvertUpgradeEntry]E:\测试工具\WhatsMinerTool-9.2.5\data\whatsminer-h3.NeedUpgradeAgain.bin not exist!
+[21884 | 2026-07-23 17:17:19,641] [CWhatsMinerToolDlg::InitConvertUpgradeEntry]E:\测试工具\WhatsMinerTool-9.2.5\data\whatsminer-h616.NeedUpgradeAgain.bin not exist!
+[21884 | 2026-07-23 17:17:23,671] [CUtils::FtpDownloadLocalFile]download  fail
+[21884 | 2026-07-23 17:17:23,671] [CUtils::DownloadRemoteUrlToLocal]download fail , ftp://39.104.27.132:1021/test_speed.bin/whatsminertool/upgrade_tables.ini
