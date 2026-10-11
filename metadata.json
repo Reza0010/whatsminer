@@ -1,5 +1,0 @@
-{
-  "name": "WhatsMinerTool Web Console",
-  "description": "Web-based ASIC miner management, batch pool configuration, firmware upgrade, and hardware monitoring suite migrated from WhatsMinerTool.",
-  "requestFramePermissions": []
-}
